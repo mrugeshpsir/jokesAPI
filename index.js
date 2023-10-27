@@ -32,6 +32,9 @@ app.get("/jokes/filter", (req, res) => {
 //5. PUT a joke
 
 //6. PATCH a joke
+app.get("/jokespatch", (req, res) => {
+
+})
 
 //7. DELETE Specific joke
 
