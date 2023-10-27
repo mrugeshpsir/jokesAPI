@@ -28,6 +28,9 @@ app.get("/jokes/filter", (req, res) => {
 })
 
 //4. POST a new joke
+app.get("/postjoke", (req, res) => {
+
+})
 
 //5. PUT a joke
 
