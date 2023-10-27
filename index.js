@@ -40,6 +40,9 @@ app.get("/jokespatch", (req, res) => {
 })
 
 //7. DELETE Specific joke
+app.get("/delete", (req, res) => {
+
+})
 
 //8. DELETE All jokes
 
