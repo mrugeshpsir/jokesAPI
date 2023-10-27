@@ -23,6 +23,9 @@ app.get("/jokes/:id", (req, res) => {
 })
 
 //3. GET a jokes by filtering on the joke type
+app.get("/jokes/filter", (req, res) => {
+
+})
 
 //4. POST a new joke
 
